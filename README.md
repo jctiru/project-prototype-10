@@ -1,18 +1,11 @@
-# vueapp2
+# project-prototype-10
+### Quotes List
 
-> A Vue.js project
+https://jctiru.github.io/project-prototype-10/
 
-## Build Setup
+Simple quotes list app using:
+- VueJS 2
+- Bootstrap 3
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Based on Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex) of Maximilian Schwarzmüller:
+- https://www.udemy.com/vuejs-2-the-complete-guide/
